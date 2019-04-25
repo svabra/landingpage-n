@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;    
+}
+
+h1, h2 {
+  font-family: Lato;
+}
+
+div#app {
+  border: 1px solid red;
+  margin: 0px;
+  padding: 0px;
+}
